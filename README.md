@@ -3,6 +3,7 @@ Então pode começar a sessão 1
 
 ### 1. Introdução e Contexto
 
+
 A arquitetura LSS-Ω™ Brasil Fit Hub é um sistema de Gerenciamento de Eventos e Informações de Segurança (SIEM) projetado para operar em modo **offline-first** e com princípios de **zero trust** aplicados diretamente na borda (edge), especificamente em dispositivos móveis Android como o Samsung Galaxy A71.[1][2] Diferente dos SIEMs tradicionais, que dependem de data centers em nuvem para coleta, correlação e resposta, o LSS-Ω™ executa todo o pipeline de monitoramento, detecção e reação **localmente**, sem envio de dados para provedores externos.[3][4]
 
 Esse desenho responde a três pressões simultâneas do cenário 2024–2026:  
